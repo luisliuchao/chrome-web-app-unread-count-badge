@@ -1,4 +1,4 @@
-# Gmail app badge notification
+# Gmail Unread Count Badge
 
 > This is an optimized fork of [Gmail app badge notification](https://chrome.google.com/webstore/detail/gmail-app-badge-notificat/fbaolhbfbmniffcokakochjjeccpcpkh) extension.
 >
