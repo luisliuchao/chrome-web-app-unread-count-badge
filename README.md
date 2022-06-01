@@ -1,5 +1,9 @@
 # Gmail app badge notification
 
+> This is an optimized fork of [Gmail app badge notification](https://chrome.google.com/webstore/detail/gmail-app-badge-notificat/fbaolhbfbmniffcokakochjjeccpcpkh) extension.
+>
+> Instead of polling the RSS feed for your Gmail inbox, it injects a tiny script into Gmail that parses your inbox unread count any time Gmail updates its title with a new unread count.
+
 You can download this extension [here](https://chrome.google.com/webstore/detail/gmail-app-badge-notificat/fbaolhbfbmniffcokakochjjeccpcpkh).
 
 ![Screenshot](screenshot.png)
