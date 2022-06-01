@@ -4,7 +4,7 @@
 >
 > Instead of polling the RSS feed for your Gmail inbox, it injects a tiny script into Gmail that parses your inbox unread count any time Gmail updates its title with a new unread count.
 
-You can download this extension [here](https://chrome.google.com/webstore/detail/gmail-app-badge-notificat/fbaolhbfbmniffcokakochjjeccpcpkh).
+You can download this extension [here](https://chrome.google.com/webstore/detail/cfhddlpoigblmghpepaoeikplefbcefk).
 
 ![Screenshot](screenshot.png)
 
