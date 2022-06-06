@@ -1,6 +1,6 @@
 (() => {
   let desc = Object.getOwnPropertyDescriptor(Document.prototype, 'title');
-  Object.defineProperty(document, 'title', {
+  Object.defineProperty(Document.prototype, 'title', {
     configurable: true,
     set(v) {
       let m = String(v).match(/Inbox(?: \((\d+)\))? -/);
